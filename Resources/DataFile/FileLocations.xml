@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LogFileLocations>
+  <LogFileLocation>
+    <DisplaName>Sitecore Log Folder</DisplaName>
+    <Location>C:\Varun\My-Setup-Sitecore-Instances\70searchpredicate\Data\logs</Location>
+  </LogFileLocation>
+  <LogFileLocation>
+    <DisplaName>Sitecore Diagnostics Folder</DisplaName>
+    <Location>C:\Varun\My-Setup-Sitecore-Instances\70searchpredicate\Data\diagnostics</Location>
+  </LogFileLocation>
+  <LogFileLocation>
+    <DisplaName>Sitecore Audit Log Folder</DisplaName>
+    <Location>C:\Varun\My-Setup-Sitecore-Instances\70searchpredicate\Data\logs\audit</Location>
+  </LogFileLocation>
+</LogFileLocations>
